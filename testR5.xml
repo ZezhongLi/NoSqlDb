@@ -1,0 +1,305 @@
+
+<NoSqlDb>
+<KeyType>class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> ></KeyType>
+<DataType>class DoubleWrapper</DataType>
+	<Key>key8</Key>
+  <Element>
+    <Name>
+      double element8
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>108</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key0</Key>
+  <Element>
+    <Name>
+      double element0
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>100</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key1</Key>
+  <Element>
+    <Name>
+      double element1
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>101</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key2</Key>
+  <Element>
+    <Name>
+      double element2
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>102</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key3</Key>
+  <Element>
+    <Name>
+      double element3
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>103</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key4</Key>
+  <Element>
+    <Name>
+      double element4
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>104</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key5</Key>
+  <Element>
+    <Name>
+      double element5
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>105</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key6</Key>
+  <Element>
+    <Name>
+      double element6
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>106</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key7</Key>
+  <Element>
+    <Name>
+      double element7
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>107</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+	<Key>key9</Key>
+  <Element>
+    <Name>
+      double element9
+    </Name>
+    <Category>
+      testR5
+    </Category>
+    <TimeDate>
+      2017-02-06 12:43:25
+    </TimeDate>
+    <Description>
+      This is an element for testR5
+    </Description>
+    <Data>
+      <DoubleWrapper>109</DoubleWrapper>
+    </Data>
+    <Children>
+      <Child Key>
+        20
+      </Child Key>
+      <Child Key>
+        30
+      </Child Key>
+      <Child Key>
+        40
+      </Child Key>
+    </Children>
+  </Element>
+
+</NoSqlDb>

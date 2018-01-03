@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Structure>
+   <Convert />
+   <CppProperties />
+   <NoSqlDb>
+      <Dependency>XmlDocument</Dependency>
+      <Dependency>CppProperties</Dependency>
+   </NoSqlDb>
+   <Persist>
+      <Dependency>XmlDocument</Dependency>
+      <Dependency>Utilities</Dependency>
+   </Persist>
+   <TestExec>
+      <Dependency>XmlDocument</Dependency>
+      <Dependency>Persist</Dependency>
+      <Dependency>NoSqlDb</Dependency>
+   </TestExec>
+   <Utilities />
+   <XmlDocument />
+</Structure>

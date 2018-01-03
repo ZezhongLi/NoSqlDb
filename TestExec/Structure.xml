@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--package structure of NoSqlDb project.-->
+<structure>
+   <keytype>string</keytype>
+   <datatype>string</datatype>
+   <item key="1">
+      <key>1</key>
+      <element>
+         <name>Convert</name>
+         <description>This package have functionality of serialize types to string and deSerialize types from string.</description>
+         <timedate>2017-02-07 13:28:32</timedate>
+         <children />
+         <categories />
+         <data>Convert</data>
+      </element>
+   </item>
+   <item key="2">
+      <key>2</key>
+      <element>
+         <name>CppProperties</name>
+         <description>provides encapsulated properties for C++ - getter and setter functions, getter and setter can be customized via parameter.</description>
+         <timedate>2017-02-07 13:28:32</timedate>
+         <children>
+            <children />
+         </children>
+         <categories />
+         <data>CppProperties</data>
+      </element>
+   </item>
+   <item key="3">
+      <key>3</key>
+      <element>
+         <name>NoSqlDb</name>
+         <description>* - IPersist interface - defines the methods needed to
+*   serialize to XML and deserialize from XML
+* - StringWrapper class that persists strings
+* - DoubleWrapper class that persists doubles
+* - Widget class with int and string properties
+* - WidgetWrapper class that persits Widgets</description>
+         <timedate>2017-02-07 13:28:32</timedate>
+         <children>
+            <key>6</key>
+            <key>7</key>
+         </children>
+         <categories />
+         <data>CppProperties</data>
+      </element>
+   </item>
+   <item key="4">
+      <key>4</key>
+      <element>
+         <name>Persist</name>
+         <description>implementation of key/value pair in-memory database</description>
+         <timedate>2017-02-07 13:28:32</timedate>
+         <children>
+            <key>2</key>
+         </children>
+         <categories />
+         <data>Persist</data>
+      </element>
+   </item>
+   <item key="5">
+      <key>5</key>
+      <element>
+         <name>TestExec</name>
+         <description>this package is the driver of the NoSqlDb, provides ways of using and testing k/v datavase.</description>
+         <timedate>2017-02-07 13:28:32</timedate>
+         <children>
+            <key>3</key>
+            <key>4</key>
+            <key>7</key>
+         </children>
+         <categories />
+         <data>TestExec</data>
+      </element>
+   </item>
+   <item key="6">
+      <key>6</key>
+      <element>
+         <name>Utilities</name>
+         <description>this package contains useful handy functions for project and demostration.</description>
+         <timedate>2017-02-07 13:28:32</timedate>
+         <children />
+         <categories />
+         <data>Utilities</data>
+      </element>
+   </item>
+   <item key="7">
+      <key>7</key>
+      <element>
+         <name>XmlDocument</name>
+         <description>* This package is intended to help students in CSE687 - Object Oriented Design
+* get started with Project #2 - XML Document Model.  It uses C++11 constructs,
+* most noteably std::shared_ptr.  The XML Document Model is essentially
+* a program-friendly wrapper around an Abstract Syntax Tree (AST) used to
+* contain the results of parsing XML markup.</description>
+         <timedate>2017-02-07 13:28:32</timedate>
+         <children />
+         <categories />
+         <data>XmlDocument</data>
+      </element>
+   </item>
+</structure>
